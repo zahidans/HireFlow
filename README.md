@@ -1,6 +1,6 @@
 # HireFlow — AI-Powered Recruitment Intelligence Platform
 
-![HireFlow Dashboard](screenshots/dashboard.png)
+![HireFlow Dashboard](https://github.com/zahidans/HireFlow/blob/main/Screenshot%202026-09-20%20182530.png)
 
 **Recruit smarter. Evaluate with evidence.**
 
